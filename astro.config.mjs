@@ -5,22 +5,57 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
+			title: 'Notes',
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'Polity',
+					autogenerate: { directory: 'polity' },
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Governance',
+					autogenerate: { directory: 'governance' },
 				},
+				{
+					label: 'Internal Security',
+					autogenerate: { directory: 'internal security' },
+				},
+				{
+					label: 'International Relations',
+					autogenerate: { directory: 'international relations' },
+				},
+				{
+					label: 'Economy',
+					autogenerate: { directory: 'economy' },
+				},
+				{
+					label: 'Environment',
+					autogenerate: { directory: 'environment' },
+				},
+				{
+					label: 'Ancient History',
+					autogenerate: { directory: 'ancient history' },
+				},
+				{
+					label: 'Art and Culture',
+					autogenerate: { directory: 'art and culture' },
+				},
+				{
+					label: 'Medieval History',
+					autogenerate: { directory: 'medieval history' },
+				},
+				{
+					label: 'Modern History',
+					autogenerate: { directory: 'modern history' },
+				},
+				{
+					label: 'World History',
+					autogenerate: { directory: 'world history' },
+				},
+				{
+					label: 'Post Independence',
+					autogenerate: { directory: 'post independence' },
+				},
+				
 			],
 		}),
 	],
