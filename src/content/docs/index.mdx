@@ -1,13 +1,13 @@
 ---
-title: Welcome to my Notes
-description: This is my notes I made during the years
-template: splash
+title: Prakhar's Notes
+description: My UPSC notes made over the years
+tableOfContents: false
 hero:
-  tagline: Hope you like it!
-  image:
+ image:
     file: ../../assets/upsc.svg
-  actions:
-    - text: Explore
-      link: /welcome/
-      icon: right-arrow
 ---
+import { LinkCard, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid>
+<LinkCard title="Polity" description="Polity notes exhaustively covering the Constitution" href="/polity/"/>
+</CardGrid>
