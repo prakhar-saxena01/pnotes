@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "05 IPR Definitions and Nature"
             }
+          },
+          {
+            "id": "8649301cbc7335f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Law/IPR/07 Ownership and IPR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 Ownership and IPR"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Law/IPR/05 IPR Definitions and Nature.md",
+                "file": "docs/Law/IPR/07 Ownership and IPR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05 IPR Definitions and Nature"
+              "title": "Backlinks for 07 Ownership and IPR"
             }
           },
           {
@@ -141,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Law/IPR/05 IPR Definitions and Nature.md",
+                "file": "docs/Law/IPR/07 Ownership and IPR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 05 IPR Definitions and Nature"
+              "title": "Outgoing links from 07 Ownership and IPR"
             }
           },
           {
@@ -168,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Law/IPR/05 IPR Definitions and Nature.md"
+                "file": "docs/Law/IPR/07 Ownership and IPR.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 05 IPR Definitions and Nature"
+              "title": "Outline of 07 Ownership and IPR"
             }
           }
         ]
@@ -191,11 +205,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed422a7a04c2556c",
+  "active": "8649301cbc7335f9",
   "lastOpenFiles": [
+    "docs/Law/IPR/08 Morality and Public Order.md",
+    "08 Morality and Public Order.md",
+    "docs/08 Morality and Public Order.md",
+    "docs/Law/IPR/07 Ownership and IPR.md",
+    "docs/Law/IPR/05 IPR Definitions and Nature.md",
     "06 Various Kinds of IPR.md",
     "docs/Law/IPR/06 Various Kinds of IPR.md",
-    "docs/Law/IPR/05 IPR Definitions and Nature.md",
     "docs/Law/IPR/04 Industrial Property.md",
     "docs/Law/IPR/03 Property.md",
     "docs/Law/IPR/02 Kinds of Things.md",
