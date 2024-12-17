@@ -9,28 +9,33 @@ In the context of law, particularly property law and intellectual property right
 
 ### Tangible Things
 
-- **Definition**: Tangible things are physical, material objects that can be touched, seen, and have a physical presence in the world. Examples include land, buildings, vehicles, books, and personal belongings like furniture or jewelry.
+#### **Definition**
 
-- **Rights Over Tangible Things**:
-  - Ownership: Grants rights like possession, use, enjoyment, and disposal of the property. This includes the right to exclude others from using or possessing the property.
-  - Real Property Rights: Specifically related to immovable property like land and buildings, involving rights like easements, mortgages, and leases.
-  - Personal Property Rights: For movable objects, rights include selling, gifting, or bequeathing the property.
+  Tangible things are physical, material objects that can be touched, seen, and have a physical presence in the world. Examples include land, buildings, vehicles, books, and personal belongings like furniture or jewellery.
+
+#### **Rights Over Tangible Things**
+
+- **Ownership**: Grants rights like possession, use, enjoyment, and disposal of the property. This includes the right to exclude others from using or possessing the property.
+- **Real Property Rights**: Specifically related to immovable property like land and buildings, involving rights like easements, mortgages, and leases.
+- **Personal Property Rights**: For movable objects, rights include selling, gifting, or bequeathing the property.
 
 ### Intangible Things
 
-- **Definition**: Intangible things lack physical substance but have value due to their intellectual or conceptual nature. Examples include intellectual property like copyrights, patents, trademarks, trade secrets, and also rights like goodwill or a company's brand value.
+#### **Definition**
 
-- **Rights Over Intangible Things**:
+Intangible things lack physical substance but have value due to their intellectual or conceptual nature. Examples include intellectual property like copyrights, patents, trademarks, trade secrets, and also rights like goodwill or a company's brand value.
 
-  - *Intellectual Property Rights (IPR)*:
-    - <u>Patents</u>: Right to exclude others from making, using, or selling an invention.
-    - <u>Trademarks</u>: Right to use a mark to identify goods or services and prevent others from using a confusingly similar mark.
-    - <u>Copyrights</u>: Right to control the reproduction, distribution, and adaptation of creative works.
-    - <u>Trade Secrets</u>: Right to keep certain business information confidential, enforceable through contracts or common law.
+#### **Rights Over Intangible Things**
 
-  - *Other Intangible Rights*:
-    - <u>Goodwill</u>: A business's reputation that can be valued and transferred.
-    - <u>Licenses</u>: Rights to use someone else's property or intellectual property under specific conditions.
+- **Intellectual Property Rights (IPR)*:
+  - <u>Patents</u>: Right to exclude others from making, using, or selling an invention.
+  - <u>Trademarks</u>: Right to use a mark to identify goods or services and prevent others from using a confusingly similar mark.
+  - <u>Copyrights</u>: Right to control the reproduction, distribution, and adaptation of creative works.
+  - <u>Trade Secrets</u>: Right to keep certain business information confidential, enforceable through contracts or common law.
+
+- **Other Intangible Rights**:
+  - <u>Goodwill</u>: A business's reputation that can be valued and transferred.
+  - <u>Licenses</u>: Rights to use someone else's property or intellectual property under specific conditions.
 
 ### Distinctions and Overlaps
 
