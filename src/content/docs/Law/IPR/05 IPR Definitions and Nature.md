@@ -2,8 +2,8 @@
 title: IPR Definitions and Nature
 description: Intellectual Property Rights (IPR) refer to the legal rights granted to creators and owners of intangible assets, giving them exclusive control over the use of their creations for a specified period.
 tags:
-  - IPR
   - law
+  - IPR
 ---
   
 Intellectual Property Rights (IPR) refer to the legal rights granted to creators and owners of intangible assets, giving them exclusive control over the use of their creations for a specified period. These rights are designed to encourage creativity, innovation, and the dissemination of knowledge while ensuring that creators can benefit from their intellectual labor.
