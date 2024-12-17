@@ -202,9 +202,37 @@
               "icon": "lucide-file",
               "title": "08 Biotechnological Inventions and Patents"
             }
+          },
+          {
+            "id": "1b50ffd9e8c926b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Law/Trade Marks Act/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "2c602d7fc0a4cb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -276,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Law/Patent Act/08 Biotechnological Inventions and Patents.md",
+                "file": "01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +314,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 08 Biotechnological Inventions and Patents"
+              "title": "Backlinks for 01"
             }
           },
           {
@@ -295,12 +323,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Law/Patent Act/08 Biotechnological Inventions and Patents.md",
+                "file": "01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 08 Biotechnological Inventions and Patents"
+              "title": "Outgoing links from 01"
             }
           },
           {
@@ -322,10 +350,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Law/Patent Act/08 Biotechnological Inventions and Patents.md"
+                "file": "01.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 08 Biotechnological Inventions and Patents"
+              "title": "Outline of 01"
             }
           }
         ]
@@ -345,10 +373,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a8d86a59f044115",
+  "active": "2c602d7fc0a4cb79",
   "lastOpenFiles": [
-    "docs/Law/Patent Act/07 Patent Infringement.md",
+    "docs/Law/Trade Marks Act/index.md",
+    "01.md",
     "docs/Law/Patent Act/08 Biotechnological Inventions and Patents.md",
+    "docs/Law/Trade Marks Act",
+    "docs/Law/Patent Act/07 Patent Infringement.md",
     "docs/Law/Patent Act/06 Rights of Patent Owner.md",
     "docs/Law/Patent Act/05 Patents Renewal and others.md",
     "docs/Law/Patent Act/04 Subject Matters of Patents.md",
@@ -372,8 +403,6 @@
     "docs/Law/IPR/06 Various Kinds of IPR.md",
     "docs/Law/IPR/04 Industrial Property.md",
     "docs/Law/IPR/03 Property.md",
-    "docs/Law/IPR/02 Kinds of Things.md",
-    "docs/Law/IPR/03",
-    "02 Kinds of Things.md"
+    "docs/Law/IPR/03"
   ]
 }
